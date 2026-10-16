@@ -18,4 +18,12 @@
     <string name="label_tgl_lahir">Tgl Lahir</string>
     <string name="desc_calendar_icon">Pilih Tanggal Lahir</string>
     <string name="date_format_display">%1$02d/%2$02d/%3$04d</string>
+
+    <!-- Field Experience -->
+    <string name="label_experience">Experience</string>
+    <string name="desc_dropdown_icon">Buka Pilihan Pengalaman</string>
+    <string name="exp_less_than_1">&lt; 1 Tahun</string>
+    <string name="exp_1_to_3">1 - 3 Tahun</string>
+    <string name="exp_3_to_5">3 - 5 Tahun</string>
+    <string name="exp_more_than_5">&gt; 5 Tahun</string>
 </resources>

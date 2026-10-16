@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Padding dan Margin -->
+    <dimen name="padding_screen_horizontal">20dp</dimen>
+    <dimen name="padding_form_horizontal">24dp</dimen>
+    <dimen name="padding_form_vertical">24dp</dimen>
+    <dimen name="padding_form_bottom">32dp</dimen>
+    <dimen name="spacing_between_fields">14dp</dimen>
+    <dimen name="spacing_name_row">12dp</dimen>
+    <dimen name="spacing_date_exp_row">12dp</dimen>
+    <dimen name="spacing_title_to_subtitle">6dp</dimen>
+    <dimen name="spacing_subtitle_to_form">24dp</dimen>
+    <dimen name="spacing_form_to_skills">16dp</dimen>
+    <dimen name="spacing_skills_to_checkboxes">4dp</dimen>
+    <dimen name="spacing_checkbox_to_text">4dp</dimen>
+    <dimen name="spacing_checkboxes_to_button">24dp</dimen>
+</resources>

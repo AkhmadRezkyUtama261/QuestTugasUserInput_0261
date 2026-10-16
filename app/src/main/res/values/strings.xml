@@ -32,4 +32,16 @@
     <string name="skill_android">Android</string>
     <string name="skill_ui_ux">UI/UX</string>
     <string name="skill_web">Web</string>
+
+    <!-- Tombol dan Dialog -->
+    <string name="btn_proceed">Proceed</string>
+    <string name="dialog_title_success">Data Biodata Tersimpan</string>
+    <string name="dialog_label_nama">Nama Lengkap: %1$s %2$s</string>
+    <string name="dialog_label_email">Email: %1$s</string>
+    <string name="dialog_label_tgl_lahir">Tanggal Lahir: %1$s</string>
+    <string name="dialog_label_experience">Pengalaman: %1$s</string>
+    <string name="dialog_label_skill">Keahlian: %1$s</string>
+    <string name="dialog_btn_close">Tutup</string>
+    <string name="text_not_specified">Belum diisi</string>
+    <string name="text_none">Tidak ada</string>
 </resources>

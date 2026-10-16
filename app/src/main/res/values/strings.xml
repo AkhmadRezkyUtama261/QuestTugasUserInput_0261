@@ -9,4 +9,8 @@
     <!-- Field Nama -->
     <string name="label_first_name">Nama Depan</string>
     <string name="label_last_name">Nama Belakang</string>
+
+    <!-- Field Email -->
+    <string name="label_email">Email</string>
+    <string name="email_error">Format email tidak valid</string>
 </resources>

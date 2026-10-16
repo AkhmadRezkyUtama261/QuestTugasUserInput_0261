@@ -7,4 +7,18 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Warna Khusus Form Biodata -->
+    <color name="title_purple">#FF5844A8</color>
+    <color name="subtitle_gray">#FF757575</color>
+    <color name="text_label">#FF1D1B20</color>
+    <color name="input_border_unfocused">#FF79747E</color>
+    <color name="input_border_focused">#FF5844A8</color>
+    <color name="input_placeholder">#FF49454F</color>
+    <color name="button_proceed_bg">#FFE0E0E0</color>
+    <color name="button_proceed_text">#FFFFFFFF</color>
+    <color name="card_surface">#FFFFFFFF</color>
+    <color name="checkbox_checked">#FF5844A8</color>
+    <color name="checkbox_unchecked">#FF49454F</color>
+    <color name="scaffold_background">#FFF8F9FA</color>
 </resources>

@@ -13,4 +13,9 @@
     <!-- Field Email -->
     <string name="label_email">Email</string>
     <string name="email_error">Format email tidak valid</string>
+
+    <!-- Field Tanggal Lahir -->
+    <string name="label_tgl_lahir">Tgl Lahir</string>
+    <string name="desc_calendar_icon">Pilih Tanggal Lahir</string>
+    <string name="date_format_display">%1$02d/%2$02d/%3$04d</string>
 </resources>

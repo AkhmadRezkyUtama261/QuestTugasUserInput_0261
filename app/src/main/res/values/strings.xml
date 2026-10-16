@@ -5,4 +5,8 @@
     <string name="title_form_biodata">Form Biodata</string>
     <string name="subtitle_form_biodata">Silahkan isi biodata Anda dibawah ini !!!</string>
     <string name="desc_header_photo">Foto Profil Latar Belakang</string>
+
+    <!-- Field Nama -->
+    <string name="label_first_name">Nama Depan</string>
+    <string name="label_last_name">Nama Belakang</string>
 </resources>
